@@ -6,4 +6,6 @@ public class MyMethods {
 
     // method 2
 
+    // method 3
+
 }
